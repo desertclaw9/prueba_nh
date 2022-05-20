@@ -18,7 +18,7 @@ Technical test for New Horizon Technologies.
 
 1. Clone repository
    ```sh
-   git clone ..
+   git clone https://github.com/desertclaw9/prueba_nh.git
    ```
    
 2. Create virtual environment
@@ -38,10 +38,19 @@ Technical test for New Horizon Technologies.
 
 ## Execution
 
-2. Run main.py
+1. Run Calculator.py with values and operator. Make sure to introduce operator exactly!
     ```sh
-     python3 src/main.py
+     python3 src/Calculator.py -o operator -x value1 -y value2
      ```
+   
+   available operations are:
+   - sum: x + y
+   - sub: x - y
+   - mul: x * y
+   - div: x / y
+   - pow: x ^ y
+   - sqrt: sqrt(x)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -54,3 +63,5 @@ Technical test for New Horizon Technologies.
 <a href="https://www.linkedin.com/in/ignacio-garc%C3%ADa-si%C3%B1eriz-s%C3%A1nchez-0a2519129/" style="font-weight: bold; color: #6495ED;" target="_blank">LinkedIn</a> - 
 <a href="https://github.com/desertclaw9" style="font-weight: bold; color: #000;" target="_blank">Github</a>
 </td>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
