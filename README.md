@@ -1,7 +1,7 @@
 <div id="top"></div>
 
-<a href="https://sercomex.es/">
-    <img src="https://nhtechnologies.com/wp-content/uploads/2021/01/Logo_newhorizon_Technologies_b.png" alt="Sercomex logo" title="Sercomex" align="right" height="70" />
+<a href="https://nhtechnologies.com/en/home-en/">
+    <img src="https://nhtechnologies.com/wp-content/uploads/2021/01/Logo_newhorizon_Technologies_b.png" alt="New Horizon Technolgies logo" title="New Horizon Technolgies" align="right" height="70" />
 </a>
 
 # Technical test
